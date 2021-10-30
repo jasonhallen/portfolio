@@ -9,6 +9,12 @@ Welcome to my portfolio!  Here you'll find examples of documentation and code I'
 
 ### Email Notices Project
 
+## Websites
+
+### Gould Library
+
+### Personal Website
+
 ## Documentation
 
 ### Technology Documentation
