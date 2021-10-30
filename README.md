@@ -1,14 +1,18 @@
 # Portfolio
 Welcome to my portfolio!  Here you'll find examples of documentation and code I've written.
 
-## Looper
+## Code
 
-## Music Framework
+### Looper
 
-## Technology Documentation
+### Music Framework
 
-## Website Management
+### Email Notices Project
 
-## Access/Loan Services Documentation
+## Documentation
 
-## Email Notices Project
+### Technology Documentation
+
+### Website Management
+
+### Access/Loan Services Documentation
