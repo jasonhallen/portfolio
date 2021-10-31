@@ -1,5 +1,5 @@
 # Portfolio
-<img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="20">
+<img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="100">
 Welcome to my portfolio!  Here you'll find examples of documentation and code I've written.
 
 ## Code
