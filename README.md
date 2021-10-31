@@ -5,7 +5,7 @@
 <h2 style="clear:left;">Code</h2>
 
 ### Email Notices Project
-Alma email notice templates are written in XSLT, and I've had to customize several of them.  [XXXX](LINK) is an example of one such notice.  I've annotated my customizations in the code.
+Alma sends out many kinds of email notices to patrons, and the configuration of these notices is one of the most convoluted parts of Alma.  The notice templates are written in XSLT and draw their data from underlying XML files. As the chair of the Fulfillment Working Group (FWG) I led a project to improve these Alma notices, which meant I had to customize several of the XSLT templates.  [XXXX](LINK) is an example of one such notice.  I've annotated my customizations in the code.
 
 ### Music Generator
 This coding project automatically composes and renders electronic music.  I coded it from scratch, and you can [explore the code here](LINK).  The automatic composing of the music is managed by a collection of classes, methods, and transformation rules written in Python.  Of particular interest is the way that functions are passed as agruments into other functions in the transformation rules.  code revolves around classes and rules which .  The Csound code .  You can read more about how the code works in this [blog post](LINK).
