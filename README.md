@@ -22,7 +22,7 @@ This personal project automatically composes and renders electronic music.  The 
 ### Looper
 The Looper is a web-based interactive sample manipulator I coded. [You can play with it here](https://jasonhallen.com/web/looper/)!  The core elements, including all interactive elements and graphical displays, are built with a JavaScript animation library called [p5.js](https://p5js.org/).  The audio processing and sound design are built with [Web Csound](LINK).  You can explore the code in [its GitHub repository](LINK) and watch a live YouTube performance I did with the software below.
 
-<p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/looper_performance.png" alt="Looper performance on YouTube" height="200"></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=5-UH1UPIE58" target="_blank"><img src="https://github.com/jasonhallen/portfolio/blob/main/looper_performance.png" alt="Looper performance on YouTube" height="200"></a></p>
 
 ### Thrive to Death
 [Thrive to Death](https://twitter.com/thrivetodeath) is a Twitter bot I designed as a parody of productivity gurus like Tim Ferris and GTD Guy.  The code is written in [Tracery](https://tracery.io/), which is a language for specifying generative grammars.  Every day the code is used to generate a random motivational saying that is automatically published on Twitter.
