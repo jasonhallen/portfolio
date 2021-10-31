@@ -1,6 +1,6 @@
 # Jason Hallen's Portfolio
 <p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="200" style="text-align:center;"></p>
-<p>Welcome to my portfolio!  Here you'll find examples of code and documentation I've written.</p>
+<p>Welcome to my portfolio!  Here you'll find examples of code and documentation I've written and websites I've worked on.</p>
 
 <h2 style="clear:left;">Code</h2>
 
