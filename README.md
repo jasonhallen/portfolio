@@ -29,6 +29,6 @@ www.jasonhallen.com is built in Joomla.  In order to achieve the clean, minimal,
 Part of my job is to ensure library staff can use the technology in the library.  I made this sign to help staff understand how to use the new technology in our conference room.
 
 ### Website Management
-As I touched on in my description of the Gould Library website above, the website had not been actively stewarded for many years when I took it on.  When we migrated from Reason to WordPress in 2020
+As I mentioned in my description of the Gould Library website above, the website had not been actively stewarded for many years when I took responsibility for it.  When we migrated from Reason to WordPress in 2020 I introduced a website management process.  I developed this process with library leadership.  Features include delegation of content management to different departments, careful control over the overall structure of the website, and an annual review.  [View the process documentation](LINK).
 
 ### Access/Loan Services Documentation
