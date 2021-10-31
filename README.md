@@ -1,8 +1,8 @@
 # Portfolio
-<img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="100">
+<img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="200" style="float:left;">
 Welcome to my portfolio!  Here you'll find examples of documentation and code I've written.
 
-## Code
+<h2 style="float:clear;">Code</h2>
 
 ### Email Notices Project
 Alma email notice templates are written in XSLT, and I've had to customize several of them.  [XXXX](LINK) is an example of one such notice.  I've annotated my customizations in the code.
