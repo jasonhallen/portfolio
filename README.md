@@ -5,11 +5,11 @@
 ## Code
 
 ### Email Notices Customization
-Alma sends out many kinds of email notices to patrons, and the configuration of these notices is one of the most convoluted parts of Alma. The notice templates are written in XSLT and draw their data from underlying XML files. Not is the configuration convoluted, but the out-of-the-box formatting and information in the notices needs improvement. The notices also don't always behave in the way that meets our needs, or there simply are no notices in Alma that do specifically what we need.  Thus, as the chair of the Fulfillment Working Group (FWG) I led a project to improve these Alma notices for our patrons, which meant I had to customize several of the XSLT templates.  Below are two examples of notices I've custominzed.  I've made comments in the code to indicate the customizations.
+Alma sends out many kinds of email notices to patrons, and the configuration of these notices is one of the most convoluted parts of Alma. The notice templates are written in XSLT and draw their data from underlying XML files. Not only is the configuration convoluted, but the out-of-the-box formatting and information in the notices need improvement, and sometimes there are no notices in Alma that do specifically what we need.  Thus, as the chair of the Fulfillment Working Group (FWG) I led a project to improve these Alma notices for our patrons, which meant I had to customize several of the XSLT templates.  Below are two examples of notices I've custominzed.  I've made comments in the code to indicate the customizations.
 
 * [Courtesy Notice](https://github.com/jasonhallen/portfolio/blob/main/courtesy_notice.xslt) - One of the problems with the notices out of the box is that they don't do a good job letting patrons know when items are in a recalled status.  This is important information because it may result in overdue fines for the patrons.  In this "Courtesy Notice" and a few similar overdue notices I've had to customize the XSLT to search for items in a recalled status and draw the patron's attention to that fact. 
 * [Loan Receipt Notice](https://github.com/jasonhallen/portfolio/blob/main/return_receipt_notice.xslt) - Surprisingly, Alma does not have a notice that lets patrons know when they've received a library fine.  In order to get this functionality, I repurposed the "Loan Receipt Notice".  This notice is supposed to be sent to a patron every time they've returned a library item, but we decided that's way too many unnecessary emails.  Instead, I've customized this notice to only be sent when a returned item has a fine associated with it, and I've added more language to help the patron understand the fines.
-* 
+* [Interested User Notice](LINK) - 
 
 ### Physical Inventory Customization
 
