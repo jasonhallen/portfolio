@@ -1,6 +1,6 @@
 # Jason Hallen's Portfolio
 <p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="200" style="text-align:center;"></p>
-<p>Welcome to my portfolio!  Here you'll find examples of code and documentation I've written and websites I've worked on.</p>
+<p>Welcome to my portfolio!  Here you'll find examples of code and documentation I've written and websites I've worked on.  Note that GitHub doesn't allow you to actually embed media on the README pages, so the images below are just links out to my projects.</p>
 
 ## Code
 
@@ -25,19 +25,19 @@ The Looper is a web-based interactive sample manipulator I coded. [You can play 
 <p align="center"><a href="https://www.youtube.com/watch?v=5-UH1UPIE58" target="_blank"><img src="https://github.com/jasonhallen/portfolio/blob/main/looper_performance.png" alt="Looper performance on YouTube" height="200"></a></p>
 
 ### Thrive to Death
-[Thrive to Death](https://twitter.com/thrivetodeath) is a Twitter bot I designed as a parody of productivity gurus like Tim Ferris and GTD Guy.  The code is written in [Tracery](https://tracery.io/), which is a language for specifying generative grammars.  Every day the code is used to generate a random motivational saying that is automatically published on Twitter.
+[Thrive to Death](https://twitter.com/thrivetodeath) is a Twitter bot I designed as a parody of productivity gurus like Tim Ferriss and David Allen.  The code is written in [Tracery](https://tracery.io/), which is a language for specifying generative grammars.  Using the service [Cheap Bots Done Quick](LINK), each day the code generates a random motivational saying which is then automatically published on Twitter.  `thrive_to_death_code.txt` contains the Tracery code, and you can browse the Twitter feed below.
 
 [IMG OF TWITTER FEED]
 
 ## Websites
 
 ### Gould Library
-When I became responsible for managing the [Gould Library website](LINK) in 20XX, it had not had a thorough review and restructuring in many years.  As a result, we received regular feedback from users that the website was confusing to use.  During the summer and fall of 2019 I led a cross-departmental task force that did an environmental scan of peer libraries' websites, research the literature on library websites, conducted card sorts with users, and overhauled the information architecture of the website.
+When I became responsible for managing the [Gould Library website](LINK) in 2017, it had not had a thorough review and restructuring in many years.  As a result, we received regular feedback from users that the website was confusing to use.  During the summer and fall of 2019 I led a cross-departmental task force that did an environmental scan of peer libraries' websites, researched the literature on library websites, conducted card sorts with users, and overhauled the information architecture of the website.
 
 In the summer of 2020 I led a different cross-departmental group in the migration of the website from Reason into WordPress.  This migration included a content review, the merging of four separate websites into one, More work remains to be done, including adding an Instagram feed to the home page, incorporating a library hours integration with LibCal, and working with Web Services on a new solution for the Exhibitions events.
 
 ### Personal Website
-My personal website (www.jasonhallen.com) is built in Joomla.  In order to achieve the minimal yet functional appearance I've had to do extensive CSS and moderate PHP customization.
+I built my personal website (www.jasonhallen.com) in Joomla.  In order to achieve the minimal yet functional appearance I've had to do extensive CSS customization along with moderate PHP customization.
 
 ## Documentation
 
