@@ -44,7 +44,8 @@ I built [my personal website](www.jasonhallen.com) in Joomla.  In order to achie
 ### Website Management
 As I mentioned in my description of the Gould Library website above, the website had not been actively stewarded for many years when I took responsibility for it.  When we migrated from Reason to WordPress in 2020 I introduced a website management process ([`library_website_management_process.pdf`](https://github.com/jasonhallen/portfolio/blob/main/library_website_management_process.pdf)).  Developed with library leadership, important aspects of the process include delegation of content management to different departments, careful control over the overall structure of the website, and an annual website review by the content managers.
 
-### Access/Loan Services Workflows
+### Fulfillment Working Group Workflows & Policies
+As chair of the Fulfillment Working Group I've taken the lead on documenting our workflows and policies, as shown in [`fwg_workflows_policies.pdf`](https://github.com/jasonhallen/portfolio/blob/main/fwg_workflows_policies.pdf).
 
 ### Technology Instructions
 Part of my job is to ensure library staff can use the technology in the library.  Recently, I made this sign ([`conference_room_monitor_instructions.pdf`](https://github.com/jasonhallen/portfolio/blob/main/conference_room_monitor_instructions.pdf)) to help staff understand how to use the new technology in our conference room.
