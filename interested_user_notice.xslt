@@ -24,7 +24,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 				<xsl:call-template name="senderReceiver" /> <!-- SenderReceiver.xsl -->
 
 				<br />
-				<xsl:call-template name="toWhomIsConcerned" /> <!-- mailReason.xsl -->
+
+                <!-- CUSTOMIZATION 
+                Pull the item's MMSID and user's campus and create a link to the item record in Carleton or Olaf Catalyst. -->
+				
+                <xsl:call-template name="toWhomIsConcerned" /> <!-- mailReason.xsl -->
 					@@You_were_specify@@ To see the item’s current availability and request options, please visit the
 				<xsl:choose>
 				<xsl:when test="/notification_data/receivers/receiver/user/campus_code='CARLETON'">
@@ -41,6 +45,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                	To see the item’s current availability and request options, please visit Catalyst.
                	</xsl:otherwise>
                	</xsl:choose>
+
+                <!-- END OF CUSTOMIZATION -->
+
 				<br />
 				<table cellspacing="0" cellpadding="5" border="0">
 				<!--
@@ -71,6 +78,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 					</td>
 						<td>
 				<br />
+
+                <!-- CUSTOMIZATION 
+                Pull the item's MMSID and user's campus and create a link to the item record in Carleton or Olaf Catalyst. -->
+
 				<xsl:choose>
 				<xsl:when test="/notification_data/receivers/receiver/user/campus_code='CARLETON'">
 					<a>
@@ -86,6 +97,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                	<xsl:value-of  select="notification_data/title"/>
                	</xsl:otherwise>
                	</xsl:choose>
+
+                <!-- END OF CUSTOMIZATION -->
 
 						<br />
 
