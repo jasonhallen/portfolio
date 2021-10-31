@@ -4,10 +4,10 @@ Welcome to my portfolio!  Here you'll find examples of documentation and code I'
 ## Code
 
 ### Email Notices Project
-Alma email notice templates are written in XSLT, and I've had to customize several of them.  XXXX is an example of one such notice.  I've annotated my customizations in the code.
+Alma email notice templates are written in XSLT, and I've had to customize several of them.  [XXXX](LINK) is an example of one such notice.  I've annotated my customizations in the code.
 
 ### Music Generator
-This coding project automatically composes and renders electronic music.  I coded it from scratch, and you can explore the code here.  The automatic composing of the music is managed by a collection of classes, methods, and transformation rules coded in Python.  Of particular interest is the way that functions are passed as agruments into other functions in the transformation rules.  code revolves around classes and rules which .  The Csound code .  You can read more about how the code works in this [blog post](LINK).
+This coding project automatically composes and renders electronic music.  I coded it from scratch, and you can [explore the code here](LINK).  The automatic composing of the music is managed by a collection of classes, methods, and transformation rules written in Python.  Of particular interest is the way that functions are passed as agruments into other functions in the transformation rules.  code revolves around classes and rules which .  The Csound code .  You can read more about how the code works in this [blog post](LINK).
 
 ### Looper
 The Looper is a web-based interactive sample manipulator that you can play with on my [website](LINK).  The core functionality, including all interactive elements and graphical displays, is built with a JavaScript animation library called [p5.js](LINK).  The audio processing and sound design are built in [Web Csound](LINK).  See the code base [here](LINK).
