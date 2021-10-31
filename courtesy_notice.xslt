@@ -37,7 +37,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 </td>
               </tr>
 
-              <!-- CUSTOMIZATION - Check if any items are in a recalled status. If yes, display message.-->
+              <!-- CUSTOMIZATION
+              Check if any items are in a recalled status. If yes, display message. -->
+
               <xsl:if test="notification_data/item_loans/item_loan/process_status[.='RECALL']">
               <tr>
               	<td>
@@ -46,6 +48,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 </td>
               </tr>
               </xsl:if>
+
+              <!-- END CUSTOMIZATION -->
+              
               <!-- <tr>
               	<td>
 					<b>@@loans@@</b>
@@ -67,7 +72,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 						</tr>
 
                 		<xsl:for-each select="notification_data/item_loans/item_loan">
-						<!-- CUSTOMIZATION - For items in a recalled status, highlight them in yellow.-->
+						
+                        <!-- CUSTOMIZATION
+                        For items in a recalled status, highlight them in yellow. -->
+
                         <xsl:choose>
 							<xsl:when test="process_status = 'RECALL'">
 								<tr style="background-color:gold;">
@@ -88,6 +96,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 								</tr>
 							</xsl:otherwise>
 							</xsl:choose>
+
+                            <!-- END CUSTOMIZATION -->
 
 						</xsl:for-each>
 
