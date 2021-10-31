@@ -37,14 +37,14 @@ When I became responsible for managing the [Gould Library website](LINK) in 2017
 In the summer of 2020 I led a different cross-departmental group in the migration of the website from Reason into WordPress.  This migration included a content review, the merging of four separate websites into one, More work remains to be done, including adding an Instagram feed to the home page, incorporating a library hours integration with LibCal, and working with Web Services on a new solution for the Exhibitions events.
 
 ### Personal Website
-I built my personal website (www.jasonhallen.com) in Joomla.  In order to achieve the minimal yet functional appearance I've had to do extensive CSS customization along with moderate PHP customization.
+I built [my personal website](www.jasonhallen.com) in Joomla.  In order to achieve the minimal yet functional layout I've had to do extensive CSS customization along with moderate PHP customization.
 
 ## Documentation
 
-### Technology Instructions
-Part of my job is to ensure library staff can use the technology in the library.  I made this sign to help staff understand how to use the new technology in our conference room.
-
 ### Website Management
-As I mentioned in my description of the Gould Library website above, the website had not been actively stewarded for many years when I took responsibility for it.  When we migrated from Reason to WordPress in 2020 I introduced a website management process.  I developed this process with library leadership.  Features include delegation of content management to different departments, careful control over the overall structure of the website, and an annual review.  [View the process documentation](LINK).
+As I mentioned in my description of the Gould Library website above, the website had not been actively stewarded for many years when I took responsibility for it.  When we migrated from Reason to WordPress in 2020 I introduced a website management process ([`website_management_process.pdf`](https://github.com/jasonhallen/portfolio/blob/main/website_management_process.pdf)).  Developed with library leadership, important aspects of the process include delegation of content management to different departments, careful control over the overall structure of the website, and an annual website review by the content managers.
 
-### Access/Loan Services Documentation
+### Access/Loan Services Workflows
+
+### Technology Instructions
+Part of my job is to ensure library staff can use the technology in the library.  Recently, I made this sign ([`conference_room_monitor_instructions.pdf`](https://github.com/jasonhallen/portfolio/blob/main/conference_room_monitor_instructions.pdf)) to help staff understand how to use the new technology in our conference room.
