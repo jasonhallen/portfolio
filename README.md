@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="200" style="text-align:center;"></p>
 <p>Welcome to my portfolio!  Here you'll find examples of code and documentation I've written and websites I've worked on.</p>
 
-<h2 style="clear:left;">Code</h2>
+## Code
 
 ### Email Notices
 Alma sends out many kinds of email notices to patrons, and the configuration of these notices is one of the most convoluted parts of Alma.  The notice templates are written in XSLT and draw their data from underlying XML files. As the chair of the Fulfillment Working Group (FWG) I led a project to improve these Alma notices, which meant I had to customize several of the XSLT templates.
