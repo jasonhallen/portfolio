@@ -1,0 +1,371 @@
+{
+  "origin": [
+    "#imperative.capitalize#.",
+    "#imperative.capitalize#.",
+    "#[#set_verb_obj#][sometimes_noun:#noun#]sometimes.capitalize#.",
+    "#question.capitalize#",
+    "#itsachoice.capitalize#.",
+    "#youhaveto.capitalize#",
+    "#bookpromo#"
+  ],
+
+  "imperative":[
+    "#makesure##do#[#set_verb_obj#]#verb_i# #adj.a# #noun#",
+    "#challenge#: [#set_verb_obj#]#verb_i# #adj.a# #noun#",
+    "#adv_time# #do#[#set_verb_obj#]#verb_i# #adj.a# #noun#",
+    "If you want to [#set_verb_no_obj#]#verb_i# #makesure##do#[#set_verb_obj#]#verb_i# #adj.a# #noun#",
+    "[#set_verb_obj#]#verb_i# of [set]#noun#, "
+  ],
+
+  "sometimes":[
+    "sometimes you #verb_i# #sometimes_noun.a#, and sometimes #sometimes_noun.a# #verb_it# you"
+  ],
+
+  "question":[
+    "#question_phrase# [#set_verb_obj#]#verb_i# your #noun#?",
+    "#question_phrase# [#set_verb_obj#]#verb_i# your #noun#?",
+    "#question_phrase# [#set_verb_obj#]#verb_i# your #noun#?",
+    "#question_phrase# [#set_verb_obj#]#verb_i# your #noun#?",
+    "when's the last time you [#set_verb_obj#]#verb_past# your #noun#?"],
+
+  "itsachoice":[
+    "#noun# isn't #noun.a#. It's #noun.a#",
+    "#noun.s# aren't #noun.s#. They're #noun.s#"
+  ],
+
+  "youhaveto":[
+    "You have to [#set_verb#]#verb_i#. To [#set_verb#]#verb_i#. To [#set_verb#]#verb_i#. #question.capitalize#"
+  ],
+
+  "bookpromo": [
+    "\"#imperative.capitalize#.\"\n- from my bestselling book \"#book_title#\""
+  ],
+
+  "opener":[
+    "#conditional.capitalize# #sentence#"
+  ],
+
+  "conditional":[
+    "when", "if", "while"
+  ],
+
+  "det":[
+    "a",
+    "a",
+    "a",
+    "a",
+    "the",
+    "the",
+    "the",
+    "the",
+    "every",
+    "its",
+    "its"
+  ],
+
+  "prep":[
+    "with #det#",
+    "at #det#",
+    "to #det#",
+    "for #det#"
+  ],
+
+  "set_verb":[
+    "#set_verb_obj#",
+    "#set_verb_no_obj#"
+  ],
+
+  "set_verb_obj":[
+    "[verb_i:celebrate][verb_it:celebrates][verb_past:celebrated][verb_ing:celebrating]",
+    "[verb_i:waste][verb_it:wastes][verb_past:wasted][verb_ing:wasting]",
+    "[verb_i:miss][verb_it:misses][verb_past:missed][verb_ing:missing]",
+    "[verb_i:lead][verb_it:leads][verb_past:led][verb_ing:leading]",
+    "[verb_i:choose][verb_it:chooses][verb_past:chose][verb_ing:choosing]",
+    "[verb_i:do][verb_it:does][verb_past:did][verb_ing:doing]",
+    "[verb_i:complete][verb_it:completes][verb_past:completed][verb_ing:competing]",
+    "[verb_i:avoid][verb_it:avoids][verb_past:avoided][verb_ing:avoiding]",
+    "[verb_i:underestimate][verb_it:underestimates][verb_past:underestimated][verb_ing:underestimating]",
+    "[verb_i:start][verb_it:starts][verb_past:started][verb_ing:starting]",
+    "[verb_i:stop][verb_it:stops][verb_past:stopped][verb_ing:stopping]",
+    "[verb_i:prioritize][verb_it:prioritizes][verb_past:prioritized][verb_ing:prioritizing]",
+    "[verb_i:champion][verb_it:champions][verb_past:championed][verb_ing:championing]",
+    "[verb_i:achieve][verb_it:achieves][verb_past:achieved][verb_ing:[verb_ing:achieving]]",
+    "[verb_i:let go of][verb_it:lets go of][verb_past:let go of][verb_ing:[verb_ing:letting go of]",
+    "[verb_i:jump start][verb_it:jump starts][verb_past:jump started][verb_ing:jump starting]",
+    "[verb_i:crush][verb_it:crushes][verb_past:crushed][verb_ing:crushing]"
+
+  ],
+
+  "set_verb_no_obj":[
+    "[verb_i:celebrate][verb_it:celebrates][verb_past:celebrated][verb_ing:celebrating]",
+    "[verb_i:waste][verb_it:wastes][verb_past:wasted][verb_ing:wasting]",
+    "[verb_i:lead][verb_it:leads][verb_past:led][verb_ing:leading]",
+    "[verb_i:choose][verb_it:chooses][verb_past:chose][verb_ing:choosing]",
+    "[verb_i:do][verb_it:does][verb_past:did][verb_ing:doing]",
+    "[verb_i:underestimate][verb_it:underestimates][verb_past:underestimated][verb_ing:underestimating]",
+    "[verb_i:thrive][verb_it:thrives][verb_past:thrived][verb_ing:thriving]",
+    "[verb_i:procrastinate][verb_it:procrastinates][verb_past:procrastinated][verb_ing:procrastinating]",
+    "[verb_i:compete][verb_it:competes][verb_past:competed][verb_ing:competing]",
+    "[verb_i:succeed][verb_it:succeeds][verb_past:succeeded][verb_ing:succeeding]",
+    "[verb_i:concentrate][verb_it:concentrates][verb_past:concentrated][verb_ing:concentrating]",
+    "[verb_i:focus][verb_it:focuses][verb_past:focused][verb_ing:focusing]",
+    "[verb_i:invest][verb_it:invests][verb_past:invested][verb_ing:investing]"
+  ],
+
+  "verb_phrase":[
+    "#verb_obj#",
+    "#verb_no_obj#"
+  ],
+
+  "verb_phrase_obj":[
+  ],
+
+  "verb_no_obj":[
+    "thrive",
+    "procrastinate",
+    "run",
+    "compete"],
+
+  "verb_obj":[
+    "waste",
+    "celebrate",
+    "miss",
+    "lead",
+    "reach",
+    "choose",
+    "do",
+    "complete",
+    "avoid",
+    "underestimate",
+    "plan",
+    "manage",
+    "need",
+    "distract",
+    "organize",
+    "challenge",
+    "create",
+    "change",
+    "make"
+  ],
+
+  "verb_with":[
+    "erupts",
+    "bursts",
+    "teems",
+    "swells"
+  ],
+
+  "verb_in":[
+    "revels",
+    "moves",
+    "exists",
+    "rejoices"
+  ],
+
+  "verb_to":[
+    "runs",
+    "answers",
+    "cries",
+    "sings",
+    "attempt"
+  ],
+
+  "verb_for":[
+    "yearns",
+    "waits",
+    "watches",
+    "calls",
+    "reach"],
+
+  "noun_phrase":[
+    "#noun#",
+    "#adj# #noun#",
+    "#adj# #noun#, #comparison#"
+  ],
+
+  "noun":[
+    "waste",
+    "win",
+    "success",
+    "habit",
+    "productivity",
+    "strategy",
+    "time",
+    "routine",
+    "inaction",
+    "chance",
+    "life",
+    "work",
+    "dream",
+    "obstacle",
+    "choice",
+    "task",
+    "excuse",
+    "reason",
+    "email",
+    "distraction",
+    "schedule",
+    "management",
+    "system",
+    "person",
+    "app",
+    "efficiancy",
+    "organization",
+    "secret",
+    "behavior",
+    "procrastination",
+    "challenge",
+    "capacity",
+    "business",
+    "stress",
+    "momentum",
+    "change",
+    "goal",
+    "milestone",
+    "priority",
+    "concentration",
+    "leadership",
+    "present",
+    "future",
+    "possibility"
+  ],
+
+  "set_noun":[
+    "[noun:waste][noun_pl:wastes][noun_det:]",
+    "[noun:win][noun_pl:wins][noun_det:a win]",
+    "[noun:success][noun_pl:successes][noun_det:success]",
+    "[noun:habit][noun_pl:habits][noun_det:a habit]",
+    "[noun:productivity][noun_pl:productivities][noun_det:productivity]",
+    "[noun:strategy][noun_pl:strategies][noun_det:a strategy]",
+    "[noun:time][noun_pl:times][noun_det:time]",
+    "[noun:routine][noun_pl:routines][noun_det:a routine]",
+    "[noun:inaction][noun_pl:inactions][noun_det:inaction]",
+    "[noun:chance][noun_pl:chances][noun_det:a chance]",
+    "[noun:life][noun_pl:lives][noun_det:a life]",
+    "[noun:work][noun_pl:works][noun_det:work]",
+    "[noun:dream][noun_pl:dreams][noun_det:a dream]",
+    "[noun:obsctacle][noun_pl:obstacles][noun_det:an obstacle]",
+    "[noun:choice][noun_pl:choices][noun_det:a choice]",
+    "[noun:task][noun_pl:tasks][noun_det:a task]",
+    "[noun:excuse][noun_pl:excuses][noun_det:an excuse]",
+    "[noun:reason][noun_pl:reasons][noun_det:a reason]",
+    "[noun:email][noun_pl:emails][noun_det:an email]",
+    "[noun:distraction][noun_pl:distractions][noun_det:a distraction]",
+    "[noun:schedule][noun_pl:schedules][noun_det:a schedule]",
+    "[noun:management][noun_pl:managements][noun_det:management]",
+    "[noun:system][noun_pl:systems][noun_det:a system]",
+    "[noun:person][noun_pl:people][noun_det:a person]",
+    "[noun:app][noun_pl:apps][noun_det:an app]",
+    "[noun:efficiency][noun_pl:efficiencies][noun_det:efficiency]",
+    "[noun:organization][noun_pl:organizations][noun_det:an organization]",
+    "[noun:secret][noun_pl:secrets][noun_det:a secret]",
+    "[noun:behavior][noun_pl:behaviors][noun_det:a behavior]",
+    "[noun:procrastination][noun_pl:procrastinations][noun_det:procrastination]",
+    "[noun:challenge][noun_pl:challenges][noun_det:a challenge]",
+    "[noun:capacity][noun_pl:capacities][noun_det:a capacity]",
+    "[noun:business][noun_pl:businesses][noun_det:a business]",
+    "[noun:stress][noun_pl:stresses][noun_det:stress]",
+    "[noun:momentum][noun_pl:momentums][noun_det:momentum]",
+    "[noun:change][noun_pl:changes][noun_det:a change]",
+    "[noun:goal][noun_pl:goals][noun_det:a goal]",
+    "[noun:milestone][noun_pl:milestones][noun_det:a milestone]",
+    "[noun:priority][noun_pl:priorities][noun_det:a priotity]",
+    "[noun:concentration][noun_pl:concentrations][noun_det:concentration]",
+    "[noun:leadership][noun_pl:leadership][noun_det:leadership]",
+    "[noun:present][noun_pl:presents][noun_det:the present]",
+    "[noun:future][noun_pl:futures][noun_det:the future]",
+    "[noun:possibility][noun_pl:possibilities][noun_det:a possibility]"
+  ],
+
+  "adj":[
+    "small",
+    "big",
+    "healthy",
+    "unhealthy",
+    "productive",
+    "unproductive",
+    "efficient",
+    "inefficient",
+    "strategic",
+    "timely",
+    "wasted",
+    "successful",
+    "unsuccessful",
+    "helpful",
+    "unhelpful",
+    "important",
+    "unimportant",
+    "focused",
+    "hypothetical",
+    "potential",
+    "impossible"
+  ],
+
+  "adv_time":[
+    "always", "never"
+  ],
+
+  "noun_time":[
+    "now",
+    "present",
+    "moment",
+    "future",
+    "past",
+    "hereafter"
+  ],
+
+  "comparison":[
+    "like a #noun_phrase#",
+    "as a #noun_phrase#"
+  ],
+
+  "challenge":[
+    "challenge",
+    "try this",
+    "idea",
+    "give this a try",
+    "here's a thought",
+    "here's an idea",
+    "here's a challenge",
+    "pro tip"
+  ],
+
+  "question_phrase":[
+    "do you",
+    "#question_word# #dodont# you",
+    "what will you do to",
+    "what will it take for you to"
+  ],
+
+  "question_word":[
+    "how",
+    "when",
+    "where",
+    "why",
+    "how often"
+  ],
+
+  "makesure":[
+    "",
+    "make sure you ",
+    "don't forget to "
+  ],
+
+  "do":[
+    "",
+    "don't "
+  ],
+
+  "dodont":[
+    "do",
+    "don't"
+  ],
+
+  "book_title": [
+    "#title_part.capitalize#"
+  ],
+
+  "title_part": [
+    "#adv_time.capitalize# Be [#set_verb#]#verb_ing.capitalize#","Don't #adv_time.capitalize# Be [#set_verb#]#verb_ing.capitalize#","The #noun.capitalize# of #noun.capitalize#"
+  ]
+}
