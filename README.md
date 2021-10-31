@@ -13,7 +13,7 @@ This coding project automatically composes and renders electronic music.  I code
 The Looper is a web-based interactive sample manipulator that you can play with on my [website](LINK).  The core functionality, including all interactive elements and graphical displays, is built with a JavaScript animation library called [p5.js](LINK).  The audio processing and sound design are built in [Web Csound](LINK).  See the code base [here](LINK).
 
 ### Thrive to Death
-[Thrive to Death](LINK) is a Twitter bot I designed as a parody of productivity gurus.  The code is written in [Tracery](LINK), which is a language for developing generative grammars.  The code is has been loaded into [Cheap Bots Done Quick](LINK), which randomly generates motivational sayings and publishes them on Twitter. 
+[Thrive to Death](https://twitter.com/thrivetodeath) is a Twitter bot I designed as a parody of productivity gurus.  The code is written in [Tracery](https://tracery.io/), which is a language for specifying generative grammars.  Every day the code is used to generate a random motivational saying that gets published on Twitter. 
 
 ## Websites
 
@@ -25,8 +25,10 @@ www.jasonhallen.com is built in Joomla.  In order to achieve the clean, minimal,
 
 ## Documentation
 
-### Technology Documentation
+### Technology Instructions
+Part of my job is to ensure library staff can use the technology in the library.  I made this sign to help staff understand how to use the new technology in our conference room.
 
 ### Website Management
+As I touched on in my description of the Gould Library website above, the website had not been actively stewarded for many years when I took it on.  When we migrated from Reason to WordPress in 2020
 
 ### Access/Loan Services Documentation
