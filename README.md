@@ -1,6 +1,6 @@
 # Jason Hallen's Portfolio
 <p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="200" style="text-align:center;"></p>
-<p>Welcome to my portfolio!  Here you'll find examples of documentation and code I've written.</p>
+<p>Welcome to my portfolio!  Here you'll find examples of code and documentation I've written.</p>
 
 <h2 style="clear:left;">Code</h2>
 
@@ -10,11 +10,17 @@ Alma email notice templates are written in XSLT, and I've had to customize sever
 ### Music Generator
 This coding project automatically composes and renders electronic music.  I coded it from scratch, and you can [explore the code here](LINK).  The automatic composing of the music is managed by a collection of classes, methods, and transformation rules written in Python.  Of particular interest is the way that functions are passed as agruments into other functions in the transformation rules.  code revolves around classes and rules which .  The Csound code .  You can read more about how the code works in this [blog post](LINK).
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3523620370/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://jasonhallen.bandcamp.com/album/318">318 by Jason Hallen</a></iframe>
+
 ### Looper
 The Looper is a web-based interactive sample manipulator that you can play with on my [website](LINK).  The core functionality, including all interactive elements and graphical displays, is built with a JavaScript animation library called [p5.js](LINK).  The audio processing and sound design are built in [Web Csound](LINK).  See the code base [here](LINK).
 
+[EMBED YOUTUBE PERFORMANCE]
+
 ### Thrive to Death
-[Thrive to Death](https://twitter.com/thrivetodeath) is a Twitter bot I designed as a parody of productivity gurus.  The code is written in [Tracery](https://tracery.io/), which is a language for specifying generative grammars.  Every day the code is used to generate a random motivational saying that gets published on Twitter. 
+[Thrive to Death](https://twitter.com/thrivetodeath) is a Twitter bot I designed as a parody of productivity gurus.  The code is written in [Tracery](https://tracery.io/), which is a language for specifying generative grammars.  Every day the code is used to generate a random motivational saying that is automatically published on Twitter.
+
+[EMBED TWITTER FEED]
 
 ## Websites
 
