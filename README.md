@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="200" style="text-align:center;"></p>
+
 # Portfolio
 
 <p>Welcome to my portfolio!  Here you'll find examples of documentation and code I've written.</p>
