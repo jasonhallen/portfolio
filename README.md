@@ -1,4 +1,4 @@
-<img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="200" align="right">
+<img src="https://github.com/jasonhallen/portfolio/blob/main/portrait.png" alt="Jason Hallen portrait" height="200" align="center">
 
 # Portfolio
 <p>Welcome to my portfolio!  Here you'll find examples of documentation and code I've written.</p>
