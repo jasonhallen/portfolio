@@ -321,7 +321,9 @@ if ( $xlsx = SimpleXLSX::parse($_POST['gsfile']) ) {
         echo '<td>Last call number scanned: <B>' . $last_call . '</b></td></tr></table>';
         //pre($output_array);
         outputRecords($shelflist);
+        // CUSTOMIZATION
         updateInventoryDate($sortednk);
+        // END OF CUSTOMIZATION
  }   else {
     exit;
 }
@@ -407,6 +409,7 @@ function outputRecords($output){
 
 } 
 
+// CUSTOMIZATION
 function updateInventoryDate($sortednk) {
   foreach ($sortednk as $key) {
     $file_contents = file_get_contents("cache/barcodes/" . $key['item_barcode'] . ".xml"); 
@@ -423,4 +426,5 @@ function updateInventoryDate($sortednk) {
     $result = curl_exec($ch);
   }
 }
+//END OF CUSTOMIZATION
 ?>
