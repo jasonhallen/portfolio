@@ -45,9 +45,7 @@ The Looper is a web-based interactive sample manipulator I coded. [You can play 
 ### Gould Library
 When I became responsible for managing the [Gould Library website](LINK) in 2017, it had not had a thorough review and restructuring in many years.  As a result, we received regular feedback from users that the website was confusing to use.  During the summer and fall of 2019 I led a cross-departmental task force that did an environmental scan of peer libraries' websites, researched the literature on library websites, conducted card sorts with users, and overhauled the information architecture of the website.
 
-In the summer of 2020 I led a different cross-departmental group in the migration of the website from Reason into WordPress.  This migration included a content review, the merging of four separate websites into one, 
-
-More work remains to be done, including adding an Instagram feed to the home page, incorporating a LibCal integration that will display library hours, and working with Web Services on a new solution for the Exhibitions archives.
+In the summer of 2020 I led a different cross-departmental group in the migration of the website from Reason into WordPress.  This migration included a content review, the merging of four separate websites into one, and working with Web Services to find new solutions for customizations and functionality we were losing.  Website projects coming in the near future include adding a the library's Instagram feed to the home page, incorporating a LibCal integration that will automatically display library hours, and working with Web Services on a new solution for the Exhibitions archives.
 
 ### Personal Website
 I built [my personal website](https://www.jasonhallen.com) in Joomla.  In order to achieve the minimal yet functional layout I've had to do extensive CSS customization along with moderate PHP customization.
