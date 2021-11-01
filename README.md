@@ -55,7 +55,7 @@ I built [my personal website](https://www.jasonhallen.com) in Joomla.  In order 
 ## Documentation
 
 ### Website Management
-As I mentioned in my description of the Gould Library website above, the website had not been actively stewarded for many years when I took responsibility for it.  When we migrated from Reason to WordPress in 2020 I introduced a website management process ([`library_website_management_process.pdf`](https://github.com/jasonhallen/portfolio/blob/main/documentation/library_website_management_process.pdf)).  Developed with library leadership, important aspects of the process include delegation of content management to different departments, careful control over the overall structure of the website, and an annual website review by the content managers.
+As I mentioned in my description of the Gould Library website above, the website had not been actively stewarded for several years when I took responsibility for it.  When we migrated from Reason to WordPress in 2020 I introduced a website management process ([`library_website_management_process.pdf`](https://github.com/jasonhallen/portfolio/blob/main/documentation/library_website_management_process.pdf)).  Developed with library leadership, important aspects of the process include delegation of content management to different departments, careful control over the overall structure of the website, and an annual website review by the content managers.
 
 ### Fulfillment Working Group Workflows
 As chair of the Fulfillment Working Group I've taken the lead on documenting some of our more involved and irregular workflows, as shown in [`fwg_workflows_policies.pdf`](https://github.com/jasonhallen/portfolio/blob/main/documentation/fwg_workflows_policies.pdf).
