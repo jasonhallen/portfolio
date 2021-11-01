@@ -19,7 +19,7 @@ This personal project automatically composes and renders electronic music.  The 
 <br>
 <br>
 <p align="center"><a href="https://jasonhallen.bandcamp.com/album/318" target="_blank"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/music_generator_album.png" title="Listen to an album composed by the music generator." alt="Album composed by the music generator" height="200"></a></p>
-<p align="center">Listen to an album composed by the music generator."</p>
+<p align="center"><em>Listen to an album composed by the music generator.</em></p>
 
 ### Looper
 The Looper is a web-based interactive sample manipulator I coded. [You can play with it here](https://jasonhallen.com/web/looper/)!  The core elements, including all interactive elements and graphical displays, are built with a JavaScript library called [p5.js](https://p5js.org/).  The audio processing and sound design are built with [Web Csound](https://csound.com/docs/web/).  You can explore the code in [its GitHub repository](https://github.com/jasonhallen/looper) and watch a live YouTube performance I did with the software below.
