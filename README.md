@@ -1,4 +1,4 @@
-# Jason Hallen's Portfolio
+# My Portfolio
 <p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/portrait.png" title="Hello, I'm Jason!" alt="Jason Hallen portrait" height="200" style="text-align:center;">
 <br>
 <em>Hello, I'm Jason!</em></p>
