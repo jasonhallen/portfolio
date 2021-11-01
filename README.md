@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/portrait.png" title="Hello, I'm Jason!" alt="Jason Hallen portrait" height="200" style="text-align:center;">
 <br>
 <em>Hello, I'm Jason!</em></p>
-<p>Welcome to my portfolio.  Here you'll find examples of code and documentation I've written and websites I've worked on.  Note that GitHub doesn't allow you to actually embed media on the README pages, so the images below are just links out to my projects.</p>
+<p>Welcome to my portfolio.  Here you'll find examples of code and documentation I've written and websites I've worked on.  Note that GitHub doesn't allow you to embed media on the README pages, so the images below are just links out to my projects.</p>
 
 ## Code
 
