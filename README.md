@@ -27,6 +27,7 @@ The Looper is a web-based interactive sample manipulator I coded. [You can play 
 ### Thrive to Death
 [Thrive to Death](https://twitter.com/thrivetodeath) is a Twitter bot I designed as a parody of productivity gurus like Tim Ferriss and David Allen.  The code is written in [Tracery](https://tracery.io/), which is a JSON-formatted language for specifying generative grammars.  Using the service [Cheap Bots Done Quick](https://cheapbotsdonequick.com/), each day the code generates a random motivational saying which is then automatically published on Twitter.  [`thrive_to_death_code.json`](https://github.com/jasonhallen/portfolio/blob/main/code/thrive_to_death/thrive_to_death_code.json) contains the Tracery code, and you can browse the Twitter feed below.
 <br>
+<br>
 <p align="center"><a href="https://twitter.com/thrivetodeath" target="_blank"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/thrive_to_death_feed.png" title="Browse the Thrive to Death Twitter feed." alt="Thrive to Death on Twitter" height="200"></a></p>
 
 ## Websites
