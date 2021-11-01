@@ -50,7 +50,7 @@ In the summer of 2020 I led a different cross-departmental group in the migratio
 More work remains to be done, including adding an Instagram feed to the home page, incorporating a LibCal integration that will display library hours, and working with Web Services on a new solution for the Exhibitions archives.
 
 ### Personal Website
-I built [my personal website](www.jasonhallen.com) in Joomla.  In order to achieve the minimal yet functional layout I've had to do extensive CSS customization along with moderate PHP customization.
+I built [my personal website](https://www.jasonhallen.com) in Joomla.  In order to achieve the minimal yet functional layout I've had to do extensive CSS customization along with moderate PHP customization.
 
 ## Documentation
 
