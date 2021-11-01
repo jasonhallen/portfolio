@@ -1,5 +1,7 @@
 # Jason Hallen's Portfolio
-<p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/portrait.png" title="Hello, I'm Jason!" alt="Jason Hallen portrait" height="200" style="text-align:center;"></p>
+<p align="center"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/portrait.png" title="Hello, I'm Jason!" alt="Jason Hallen portrait" height="200" style="text-align:center;">
+<br>
+<em>Hello, I'm Jason!</em></p>
 <p>Welcome to my portfolio!  Here you'll find examples of code and documentation I've written and websites I've worked on.  Note that GitHub doesn't allow you to actually embed media on the README pages, so the images below are just links out to my projects.</p>
 
 ## Code
@@ -26,13 +28,17 @@ This personal project automatically composes and renders electronic music.  The 
 The Looper is a web-based interactive sample manipulator I coded. [You can play with it here](https://jasonhallen.com/web/looper/)!  The core elements, including all interactive elements and graphical displays, are built with a JavaScript library called [p5.js](https://p5js.org/).  The audio processing and sound design are built with [Web Csound](https://csound.com/docs/web/).  You can explore the code in [its GitHub repository](https://github.com/jasonhallen/looper) and watch a live YouTube performance I did with the software below.
 <br>
 <br>
-<p align="center"><a href="https://www.youtube.com/watch?v=5-UH1UPIE58" target="_blank"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/looper_performance.png" title="Watch a YouTube performance of the Looper." alt="Looper performance on YouTube" height="200"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=5-UH1UPIE58" target="_blank"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/looper_performance.png" title="Watch a YouTube performance of the Looper." alt="Looper performance on YouTube" height="200"></a>
+<br>
+<em>Watch a YouTube performance of the Looper.</em></p>
 
 ### Thrive to Death
 [Thrive to Death](https://twitter.com/thrivetodeath) is a Twitter bot I designed as a parody of productivity gurus like Tim Ferriss and David Allen.  The code is written in [Tracery](https://tracery.io/), which is a JSON-formatted language for specifying generative grammars.  Using the service [Cheap Bots Done Quick](https://cheapbotsdonequick.com/), each day the code generates a random motivational saying which is then automatically published on Twitter.  [`thrive_to_death_code.json`](https://github.com/jasonhallen/portfolio/blob/main/code/thrive_to_death/thrive_to_death_code.json) contains the Tracery code, and you can browse the Twitter feed below.
 <br>
 <br>
-<p align="center"><a href="https://twitter.com/thrivetodeath" target="_blank"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/thrive_to_death_feed.png" title="Browse the Thrive to Death Twitter feed." alt="Thrive to Death on Twitter" height="200"></a></p>
+<p align="center"><a href="https://twitter.com/thrivetodeath" target="_blank"><img src="https://github.com/jasonhallen/portfolio/blob/main/images/thrive_to_death_feed.png" title="Browse the Thrive to Death Twitter feed." alt="Thrive to Death on Twitter" height="200"></a>
+<br>
+<em>Browse the Thrive to Death Twitter feed.</em></p>
 
 ## Websites
 
